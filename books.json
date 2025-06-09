@@ -1,0 +1,215 @@
+{
+  "categorias": [
+    {
+      "nome": "Ficção Científica",
+      "livros": [
+        {
+          "titulo": "Duna",
+          "autor": "Frank Herbert",
+          "ano": 1965,
+          "isbn": "978-8576570000"
+        },
+        {
+          "titulo": "Neuromancer",
+          "autor": "William Gibson",
+          "ano": 1984,
+          "isbn": "978-8535902778"
+        },
+        {
+          "titulo": "Fundação",
+          "autor": "Isaac Asimov",
+          "ano": 1951,
+          "isbn": "978-8576570017"
+        },
+        {
+          "titulo": "O Guia do Mochileiro das Galáxias",
+          "autor": "Douglas Adams",
+          "ano": 1979,
+          "isbn": "978-8532511000"
+        },
+        {
+          "titulo": "Admirável Mundo Novo",
+          "autor": "Aldous Huxley",
+          "ano": 1932,
+          "isbn": "978-8532507000"
+        }
+      ]
+    },
+    {
+      "nome": "Fantasia",
+      "livros": [
+        {
+          "titulo": "O Senhor dos Anéis",
+          "autor": "J.R.R. Tolkien",
+          "ano": 1954,
+          "isbn": "978-8533603149"
+        },
+        {
+          "titulo": "Harry Potter e a Pedra Filosofal",
+          "autor": "J.K. Rowling",
+          "ano": 1997,
+          "isbn": "978-8532511017"
+        },
+        {
+          "titulo": "O Nome do Vento",
+          "autor": "Patrick Rothfuss",
+          "ano": 2007,
+          "isbn": "978-8599296414"
+        },
+        {
+          "titulo": "As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa",
+          "autor": "C.S. Lewis",
+          "ano": 1950,
+          "isbn": "978-8578270000"
+        },
+        {
+          "titulo": "A Guerra dos Tronos",
+          "autor": "George R.R. Martin",
+          "ano": 1996,
+          "isbn": "978-8580410000"
+        }
+      ]
+    },
+    {
+      "nome": "Suspense/Thriller",
+      "livros": [
+        {
+          "titulo": "O Silêncio dos Inocentes",
+          "autor": "Thomas Harris",
+          "ano": 1988,
+          "isbn": "978-8501034000"
+        },
+        {
+          "titulo": "Garota Exemplar",
+          "autor": "Gillian Flynn",
+          "ano": 2012,
+          "isbn": "978-8532528000"
+        },
+        {
+          "titulo": "A Paciente Silenciosa",
+          "autor": "Alex Michaelides",
+          "ano": 2019,
+          "isbn": "978-8532531000"
+        },
+        {
+          "titulo": "O Código Da Vinci",
+          "autor": "Dan Brown",
+          "ano": 2003,
+          "isbn": "978-8532515000"
+        },
+        {
+          "titulo": "Um Conto de Duas Cidades",
+          "autor": "Charles Dickens",
+          "ano": 1859,
+          "isbn": "978-8532509000"
+        }
+      ]
+    },
+    {
+      "nome": "Romance",
+      "livros": [
+        {
+          "titulo": "Orgulho e Preconceito",
+          "autor": "Jane Austen",
+          "ano": 1813,
+          "isbn": "978-8532508000"
+        },
+        {
+          "titulo": "Cem Anos de Solidão",
+          "autor": "Gabriel García Márquez",
+          "ano": 1967,
+          "isbn": "978-8532510000"
+        },
+        {
+          "titulo": "O Pequeno Príncipe",
+          "autor": "Antoine de Saint-Exupéry",
+          "ano": 1943,
+          "isbn": "978-8532506000"
+        },
+        {
+          "titulo": "Romeu e Julieta",
+          "autor": "William Shakespeare",
+          "ano": 1597,
+          "isbn": "978-8532505000"
+        },
+        {
+          "titulo": "A Culpa é das Estrelas",
+          "autor": "John Green",
+          "ano": 2012,
+          "isbn": "978-8532529000"
+        }
+      ]
+    },
+    {
+      "nome": "Não Ficção",
+      "livros": [
+        {
+          "titulo": "Sapiens: Uma Breve História da Humanidade",
+          "autor": "Yuval Noah Harari",
+          "ano": 2014,
+          "isbn": "978-8532530000"
+        },
+        {
+          "titulo": "O Poder do Hábito",
+          "autor": "Charles Duhigg",
+          "ano": 2012,
+          "isbn": "978-8532527000"
+        },
+        {
+          "titulo": "Mindset: A Nova Psicologia do Sucesso",
+          "autor": "Carol S. Dweck",
+          "ano": 2006,
+          "isbn": "978-8532526000"
+        },
+        {
+          "titulo": "A Arte da Guerra",
+          "autor": "Sun Tzu",
+          "ano": "Século V a.C.",
+          "isbn": "978-8532504000"
+        },
+        {
+          "titulo": "Uma Breve História do Tempo",
+          "autor": "Stephen Hawking",
+          "ano": 1988,
+          "isbn": "978-8532512000"
+        }
+      ]
+    },
+    {
+      "nome": "Clássicos",
+      "livros": [
+        {
+          "titulo": "1984",
+          "autor": "George Orwell",
+          "ano": 1949,
+          "isbn": "978-8532503000"
+        },
+        {
+          "titulo": "Dom Quixote",
+          "autor": "Miguel de Cervantes",
+          "ano": 1605,
+          "isbn": "978-8532502000"
+        },
+        {
+          "titulo": "Crime e Castigo",
+          "autor": "Fiódor Dostoiévski",
+          "ano": 1866,
+          "isbn": "978-8532501000"
+        },
+        {
+          "titulo": "Moby Dick",
+          "autor": "Herman Melville",
+          "ano": 1851,
+          "isbn": "978-8532500000"
+        },
+        {
+          "titulo": "Ulisses",
+          "autor": "James Joyce",
+          "ano": 1922,
+          "isbn": "978-8532513000"
+        }
+      ]
+    }
+  ]
+}
+
