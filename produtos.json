@@ -1,0 +1,172 @@
+[
+    {
+      "nome": "Coxinha de Frango",
+      "preco": 5.00,
+      "imagem": "img/coxinha.png",
+      "alt": "Coxinha de Frango",
+      "categoria": "salgados"
+    },
+    {
+      "nome": "Esfirra de Frango",
+      "preco": 8.00,
+      "imagem": "img/esfirra_frango.png",
+      "alt": "Esfirra de Frango",
+      "categoria": "salgados"
+    },
+    {
+      "nome": "Kibe",
+      "preco": 6.50,
+      "imagem": "img/kibe.png",
+      "alt": "Kibe",
+      "categoria": "salgados"
+    },
+    {
+      "nome": "Pastel de Carne",
+      "preco": 7.00,
+      "imagem": "img/pastel_carne.png",
+      "alt": "Pastel de Carne",
+      "categoria": "salgados"
+    },
+    {
+      "nome": "Bolinha de Queijo",
+      "preco": 5.50,
+      "imagem": "img/bolinha_queijo.png",
+      "alt": "Bolinha de Queijo",
+      "categoria": "salgados"
+    },
+    {
+      "nome": "Empada de Frango",
+      "preco": 6.00,
+      "imagem": "img/empada_frango.png",
+      "alt": "Empada de Frango",
+      "categoria": "salgados"
+    },
+    {
+      "nome": "Enroladinho de Salsicha",
+      "preco": 4.50,
+      "imagem": "img/enroladinho_salsicha.png",
+      "alt": "Enroladinho de Salsicha",
+      "categoria": "salgados"
+    },
+    {
+      "nome": "Croquete de Carne",
+      "preco": 6.00,
+      "imagem": "img/croquete_carne.png",
+      "alt": "Croquete de Carne",
+      "categoria": "salgados"
+    },
+  
+    {
+      "nome": "Trufa de Brigadeiro",
+      "preco": 2.50,
+      "imagem": "img/trufa_brigadeiro.png",
+      "alt": "Trufa de Brigadeiro",
+      "categoria": "doces"
+    },
+    {
+      "nome": "Brigadeiro",
+      "preco": 3.00,
+      "imagem": "img/brigadeiro.png",
+      "alt": "Brigadeiro",
+      "categoria": "doces"
+    },
+    {
+      "nome": "Beijinho",
+      "preco": 2.50,
+      "imagem": "img/beijinho.png",
+      "alt": "Beijinho",
+      "categoria": "doces"
+    },
+    {
+      "nome": "Pudim de Leite",
+      "preco": 7.00,
+      "imagem": "img/pudim_leite.png",
+      "alt": "Pudim de Leite",
+      "categoria": "doces"
+    },
+    {
+      "nome": "Bolo de Cenoura",
+      "preco": 5.00,
+      "imagem": "img/bolo_cenoura.png",
+      "alt": "Bolo de Cenoura",
+      "categoria": "doces"
+    },
+    {
+      "nome": "Mousse de Maracujá",
+      "preco": 6.50,
+      "imagem": "img/mousse_maracuja.png",
+      "alt": "Mousse de Maracujá",
+      "categoria": "doces"
+    },
+    {
+      "nome": "Doce de Leite",
+      "preco": 4.00,
+      "imagem": "img/doce_leite.png",
+      "alt": "Doce de Leite",
+      "categoria": "doces"
+    },
+    {
+      "nome": "Churros",
+      "preco": 5.50,
+      "imagem": "img/churros.png",
+      "alt": "Churros",
+      "categoria": "doces"
+    },
+  
+    {
+      "nome": "Coca-Cola",
+      "preco": 6.00,
+      "imagem": "img/cocacola.jpg",
+      "alt": "Coca-Cola",
+      "categoria": "bebidas"
+    },
+    {
+      "nome": "Suco de Laranja",
+      "preco": 4.50,
+      "imagem": "img/suco_laranja.png",
+      "alt": "Suco de Laranja",
+      "categoria": "bebidas"
+    },
+    {
+      "nome": "Água Mineral",
+      "preco": 3.00,
+      "imagem": "img/agua_mineral.png",
+      "alt": "Água Mineral",
+      "categoria": "bebidas"
+    },
+    {
+      "nome": "Guaraná",
+      "preco": 5.00,
+      "imagem": "img/guarana.png",
+      "alt": "Guaraná",
+      "categoria": "bebidas"
+    },
+    {
+      "nome": "Refrigerante de Limão",
+      "preco": 5.50,
+      "imagem": "img/refrigerante_limao.png",
+      "alt": "Refrigerante de Limão",
+      "categoria": "bebidas"
+    },
+    {
+      "nome": "Chá Gelado",
+      "preco": 4.00,
+      "imagem": "img/cha_gelado.png",
+      "alt": "Chá Gelado",
+      "categoria": "bebidas"
+    },
+    {
+      "nome": "Suco de Uva",
+      "preco": 5.50,
+      "imagem": "img/suco_uva.png",
+      "alt": "Suco de Uva",
+      "categoria": "bebidas"
+    },
+    {
+      "nome": "Água de Coco",
+      "preco": 6.50,
+      "imagem": "img/agua_coco.png",
+      "alt": "Água de Coco",
+      "categoria": "bebidas"
+    }
+  ]  
